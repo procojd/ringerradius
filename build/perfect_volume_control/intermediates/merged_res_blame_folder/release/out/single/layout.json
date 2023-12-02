@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "top.huic.perfect_volume_control.perfect_volume_control-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "top.huic.perfect_volume_control.perfect_volume_control-core-1.6.0-0:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "top.huic.perfect_volume_control.perfect_volume_control-merged_res-10:/layout/custom_dialog.xml",
+        "source": "top.huic.perfect_volume_control.perfect_volume_control-core-1.6.0-0:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "top.huic.perfect_volume_control.perfect_volume_control-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "top.huic.perfect_volume_control.perfect_volume_control-core-1.6.0-0:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "top.huic.perfect_volume_control.perfect_volume_control-merged_res-10:/layout/notification_action_tombstone.xml",
+        "source": "top.huic.perfect_volume_control.perfect_volume_control-core-1.6.0-0:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "top.huic.perfect_volume_control.perfect_volume_control-merged_res-10:/layout/notification_action.xml",
+        "source": "top.huic.perfect_volume_control.perfect_volume_control-core-1.6.0-0:/layout/notification_action.xml"
+    },
+    {
+        "merged": "top.huic.perfect_volume_control.perfect_volume_control-merged_res-10:/layout/notification_template_icon_group.xml",
+        "source": "top.huic.perfect_volume_control.perfect_volume_control-core-1.6.0-0:/layout/notification_template_icon_group.xml"
+    }
+]

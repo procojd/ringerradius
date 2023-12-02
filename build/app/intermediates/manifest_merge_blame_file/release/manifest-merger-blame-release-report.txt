@@ -1,0 +1,249 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.location_app"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="20"
+8-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+11-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:3:5-76
+11-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:3:22-73
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:4:5-66
+12-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:5:5-79
+13-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:5:23-77
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:6:5-79
+14-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:6:22-76
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:7:5-81
+15-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:7:22-78
+16    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+16-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:8:5-85
+16-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:8:22-82
+17    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+17-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:9:5-79
+17-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:9:22-76
+18    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+18-->[:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-77
+18-->[:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-74
+19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+19-->[:network_info_plus] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/network_info_plus/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-76
+19-->[:network_info_plus] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/network_info_plus/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-73
+20    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+20-->[:flutter_mute] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_mute/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-85
+20-->[:flutter_mute] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_mute/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-82
+21    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+21-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-81
+21-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-78
+22    <uses-permission android:name="android.permission.WAKE_LOCK" />
+22-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-68
+22-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:22-65
+23
+24    <uses-feature
+24-->[com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:26:5-28:35
+25        android:glEsVersion="0x00020000"
+25-->[com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:27:9-41
+26        android:required="true" />
+26-->[com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:28:9-32
+27
+28    <queries>
+28-->[com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:30:5-34:15
+29
+30        <!-- Needs to be explicitly declared on Android R+ -->
+31        <package android:name="com.google.android.apps.maps" />
+31-->[com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:33:9-64
+31-->[com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:33:18-61
+32    </queries>
+33
+34    <permission
+34-->[androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+35        android:name="com.example.location_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+35-->[androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+36        android:protectionLevel="signature" />
+36-->[androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+37
+38    <uses-permission android:name="com.example.location_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+38-->[androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+38-->[androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+39
+40    <application
+41        android:name="android.app.Application"
+41-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:12:9-42
+42        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+42-->[androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
+43        android:icon="@mipmap/location_app"
+43-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:13:9-44
+44        android:label="Ringer Radius" >
+44-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:11:9-38
+45        <activity
+45-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:14:9-34:20
+46            android:name="com.example.location_app.MainActivity"
+46-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:15:13-41
+47            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+47-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:19:13-163
+48            android:exported="true"
+48-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:16:13-36
+49            android:hardwareAccelerated="true"
+49-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:20:13-47
+50            android:launchMode="singleTop"
+50-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:17:13-43
+51            android:theme="@style/LaunchTheme"
+51-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:18:13-47
+52            android:windowSoftInputMode="adjustResize" >
+52-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:21:13-55
+53
+54            <!--
+55                 Specifies an Android theme to apply to this Activity as soon as
+56                 the Android process has started. This theme is visible to the user
+57                 while the Flutter UI initializes. After that, this theme continues
+58                 to determine the Window background behind the Flutter UI.
+59            -->
+60            <meta-data
+60-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:26:13-29:17
+61                android:name="io.flutter.embedding.android.NormalTheme"
+61-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:27:15-70
+62                android:resource="@style/NormalTheme" />
+62-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:28:15-52
+63
+64            <intent-filter>
+64-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:30:13-33:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:31:17-68
+65-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:31:25-66
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:32:17-76
+67-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:32:27-74
+68            </intent-filter>
+69        </activity>
+70        <!--
+71             Don't delete the meta-data below.
+72             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+73        -->
+74        <meta-data
+74-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:37:9-39:33
+75            android:name="flutterEmbedding"
+75-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:38:13-44
+76            android:value="2" />
+76-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:39:13-30
+77        <meta-data
+77-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:40:8-41:69
+78            android:name="com.google.android.geo.API_KEY"
+78-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:40:19-64
+79            android:value="AIzaSyCXPzFmONS15_q_or54qI6T6bGvfbj8rpY" />
+79-->/Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:41:12-67
+80
+81        <service
+81-->[:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-16:56
+82            android:name="com.baseflow.geolocator.GeolocatorLocationService"
+82-->[:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-77
+83            android:enabled="true"
+83-->[:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-35
+84            android:exported="false"
+84-->[:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-37
+85            android:foregroundServiceType="location" />
+85-->[:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-53
+86
+87        <activity
+87-->[:url_launcher_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-13:74
+88            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+88-->[:url_launcher_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-74
+89            android:exported="false"
+89-->[:url_launcher_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-37
+90            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+90-->[:url_launcher_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-71
+91
+92        <service
+92-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:14:9-18:44
+93            android:name="id.flutter.flutter_background_service.BackgroundService"
+93-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-83
+94            android:enabled="true"
+94-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-35
+95            android:exported="true"
+95-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-36
+96            android:stopWithTask="false" />
+96-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-41
+97
+98        <receiver
+98-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:20:9-23:39
+99            android:name="id.flutter.flutter_background_service.WatchdogReceiver"
+99-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-82
+100            android:enabled="true"
+100-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:22:13-35
+101            android:exported="true" />
+101-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-36
+102        <receiver
+102-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:24:9-32:20
+103            android:name="id.flutter.flutter_background_service.BootReceiver"
+103-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:25:13-78
+104            android:enabled="true"
+104-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:26:13-35
+105            android:exported="true" >
+105-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:27:13-36
+106            <intent-filter>
+106-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:28:13-31:29
+107                <action android:name="android.intent.action.BOOT_COMPLETED" />
+107-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:29:17-79
+107-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:29:25-76
+108                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+108-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:30:17-82
+108-->[:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/release/AndroidManifest.xml:30:25-79
+109            </intent-filter>
+110        </receiver>
+111
+112        <service
+112-->[:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:13:9-17:56
+113            android:name="com.lyokone.location.FlutterLocationService"
+113-->[:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-71
+114            android:enabled="true"
+114-->[:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-35
+115            android:exported="false"
+115-->[:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-37
+116            android:foregroundServiceType="location" />
+116-->[:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-53
+117
+118        <uses-library
+118-->[androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+119            android:name="androidx.window.extensions"
+119-->[androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+120            android:required="false" />
+120-->[androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+121        <uses-library
+121-->[androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+122            android:name="androidx.window.sidecar"
+122-->[androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+123            android:required="false" /> <!-- Needs to be explicitly declared on P+ -->
+123-->[androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+124        <uses-library
+124-->[com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:39:9-41:40
+125            android:name="org.apache.http.legacy"
+125-->[com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:40:13-50
+126            android:required="false" />
+126-->[com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:41:13-37
+127
+128        <activity
+128-->[com.google.android.gms:play-services-base:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/c4617a4fc7933a28574b49ff6158c6b4/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+129            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+129-->[com.google.android.gms:play-services-base:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/c4617a4fc7933a28574b49ff6158c6b4/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+130            android:exported="false"
+130-->[com.google.android.gms:play-services-base:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/c4617a4fc7933a28574b49ff6158c6b4/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+131            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+131-->[com.google.android.gms:play-services-base:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/c4617a4fc7933a28574b49ff6158c6b4/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+132
+133        <meta-data
+133-->[com.google.android.gms:play-services-basement:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/a803b26917b9511c7a96bfb86ec9874f/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+134            android:name="com.google.android.gms.version"
+134-->[com.google.android.gms:play-services-basement:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/a803b26917b9511c7a96bfb86ec9874f/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+135            android:value="@integer/google_play_services_version" />
+135-->[com.google.android.gms:play-services-basement:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/a803b26917b9511c7a96bfb86ec9874f/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+136    </application>
+137
+138</manifest>

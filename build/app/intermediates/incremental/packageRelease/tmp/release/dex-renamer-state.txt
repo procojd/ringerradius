@@ -1,0 +1,4 @@
+#Mon Oct 30 22:32:50 IST 2023
+base.0=/Users/jatindayal/Downloads/coding/picosoft/location_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

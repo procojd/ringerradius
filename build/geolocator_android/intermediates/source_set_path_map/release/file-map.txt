@@ -1,0 +1,15 @@
+com.baseflow.geolocator.geolocator_android-jetified-window-1.0.0-beta04-0 /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/res
+com.baseflow.geolocator.geolocator_android-jetified-window-java-1.0.0-beta04-1 /Users/jatindayal/.gradle/caches/transforms-3/51395fdc3c7e6e01eff936a294dd62dc/transformed/jetified-window-java-1.0.0-beta04/res
+com.baseflow.geolocator.geolocator_android-jetified-play-services-basement-18.1.0-2 /Users/jatindayal/.gradle/caches/transforms-3/a803b26917b9511c7a96bfb86ec9874f/transformed/jetified-play-services-basement-18.1.0/res
+com.baseflow.geolocator.geolocator_android-jetified-play-services-base-18.1.0-3 /Users/jatindayal/.gradle/caches/transforms-3/c4617a4fc7933a28574b49ff6158c6b4/transformed/jetified-play-services-base-18.1.0/res
+com.baseflow.geolocator.geolocator_android-jetified-annotation-experimental-1.3.0-4 /Users/jatindayal/.gradle/caches/transforms-3/ca4dd8621ee872518424261cedb68fd0/transformed/jetified-annotation-experimental-1.3.0/res
+com.baseflow.geolocator.geolocator_android-lifecycle-runtime-2.3.1-5 /Users/jatindayal/.gradle/caches/transforms-3/f60e914a034154988d05466ed46d6498/transformed/lifecycle-runtime-2.3.1/res
+com.baseflow.geolocator.geolocator_android-core-1.9.0-6 /Users/jatindayal/.gradle/caches/transforms-3/f637199d86efb3bfce4cf6f2780a5082/transformed/core-1.9.0/res
+com.baseflow.geolocator.geolocator_android-main-7 /Users/jatindayal/.pub-cache/hosted/pub.dev/geolocator_android-4.1.7/android/src/main/res
+com.baseflow.geolocator.geolocator_android-release-8 /Users/jatindayal/.pub-cache/hosted/pub.dev/geolocator_android-4.1.7/android/src/release/res
+com.baseflow.geolocator.geolocator_android-pngs-9 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/generated/res/pngs/release
+com.baseflow.geolocator.geolocator_android-resValues-10 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/generated/res/resValues/release
+com.baseflow.geolocator.geolocator_android-rs-11 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/generated/res/rs/release
+com.baseflow.geolocator.geolocator_android-mergeReleaseResources-12 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.baseflow.geolocator.geolocator_android-mergeReleaseResources-13 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.baseflow.geolocator.geolocator_android-merged_res-14 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_res/release

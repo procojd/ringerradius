@@ -1,0 +1,12 @@
+top.huic.perfect_volume_control.perfect_volume_control-core-1.6.0-0 /Users/jatindayal/.gradle/caches/transforms-3/03c3e6831c1b52820d6969bb986c9982/transformed/core-1.6.0/res
+top.huic.perfect_volume_control.perfect_volume_control-jetified-window-1.0.0-beta04-1 /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/res
+top.huic.perfect_volume_control.perfect_volume_control-jetified-window-java-1.0.0-beta04-2 /Users/jatindayal/.gradle/caches/transforms-3/51395fdc3c7e6e01eff936a294dd62dc/transformed/jetified-window-java-1.0.0-beta04/res
+top.huic.perfect_volume_control.perfect_volume_control-jetified-annotation-experimental-1.1.0-3 /Users/jatindayal/.gradle/caches/transforms-3/b4944ebabe285ce393c6ed341ad8a5e6/transformed/jetified-annotation-experimental-1.1.0/res
+top.huic.perfect_volume_control.perfect_volume_control-main-4 /Users/jatindayal/.pub-cache/hosted/pub.dev/perfect_volume_control-1.0.5/android/src/main/res
+top.huic.perfect_volume_control.perfect_volume_control-release-5 /Users/jatindayal/.pub-cache/hosted/pub.dev/perfect_volume_control-1.0.5/android/src/release/res
+top.huic.perfect_volume_control.perfect_volume_control-pngs-6 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/perfect_volume_control/generated/res/pngs/release
+top.huic.perfect_volume_control.perfect_volume_control-resValues-7 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/perfect_volume_control/generated/res/resValues/release
+top.huic.perfect_volume_control.perfect_volume_control-rs-8 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/perfect_volume_control/generated/res/rs/release
+top.huic.perfect_volume_control.perfect_volume_control-mergeReleaseResources-9 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/perfect_volume_control/intermediates/incremental/release/mergeReleaseResources/merged.dir
+top.huic.perfect_volume_control.perfect_volume_control-mergeReleaseResources-10 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/perfect_volume_control/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+top.huic.perfect_volume_control.perfect_volume_control-merged_res-11 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/perfect_volume_control/intermediates/merged_res/release

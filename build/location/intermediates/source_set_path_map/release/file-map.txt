@@ -1,0 +1,16 @@
+com.lyokone.location-jetified-core-ktx-1.10.1-0 /Users/jatindayal/.gradle/caches/transforms-3/1527a60ee48f5bfab76f5e86cf0b7299/transformed/jetified-core-ktx-1.10.1/res
+com.lyokone.location-core-1.10.1-1 /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/res
+com.lyokone.location-jetified-window-1.0.0-beta04-2 /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/res
+com.lyokone.location-jetified-window-java-1.0.0-beta04-3 /Users/jatindayal/.gradle/caches/transforms-3/51395fdc3c7e6e01eff936a294dd62dc/transformed/jetified-window-java-1.0.0-beta04/res
+com.lyokone.location-jetified-play-services-basement-18.1.0-4 /Users/jatindayal/.gradle/caches/transforms-3/a803b26917b9511c7a96bfb86ec9874f/transformed/jetified-play-services-basement-18.1.0/res
+com.lyokone.location-jetified-play-services-base-18.1.0-5 /Users/jatindayal/.gradle/caches/transforms-3/c4617a4fc7933a28574b49ff6158c6b4/transformed/jetified-play-services-base-18.1.0/res
+com.lyokone.location-jetified-annotation-experimental-1.3.0-6 /Users/jatindayal/.gradle/caches/transforms-3/ca4dd8621ee872518424261cedb68fd0/transformed/jetified-annotation-experimental-1.3.0/res
+com.lyokone.location-lifecycle-runtime-2.3.1-7 /Users/jatindayal/.gradle/caches/transforms-3/f60e914a034154988d05466ed46d6498/transformed/lifecycle-runtime-2.3.1/res
+com.lyokone.location-main-8 /Users/jatindayal/.pub-cache/hosted/pub.dev/location-5.0.3/android/src/main/res
+com.lyokone.location-release-9 /Users/jatindayal/.pub-cache/hosted/pub.dev/location-5.0.3/android/src/release/res
+com.lyokone.location-pngs-10 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/generated/res/pngs/release
+com.lyokone.location-resValues-11 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/generated/res/resValues/release
+com.lyokone.location-rs-12 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/generated/res/rs/release
+com.lyokone.location-mergeReleaseResources-13 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.lyokone.location-mergeReleaseResources-14 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.lyokone.location-merged_res-15 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_res/release

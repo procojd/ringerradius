@@ -1,0 +1,12 @@
+io.flutter.plugins.wifi_info_flutter-core-1.6.0-0 /Users/jatindayal/.gradle/caches/transforms-3/03c3e6831c1b52820d6969bb986c9982/transformed/core-1.6.0/res
+io.flutter.plugins.wifi_info_flutter-jetified-window-1.0.0-beta04-1 /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.wifi_info_flutter-jetified-window-java-1.0.0-beta04-2 /Users/jatindayal/.gradle/caches/transforms-3/51395fdc3c7e6e01eff936a294dd62dc/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.wifi_info_flutter-jetified-annotation-experimental-1.1.0-3 /Users/jatindayal/.gradle/caches/transforms-3/b4944ebabe285ce393c6ed341ad8a5e6/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.wifi_info_flutter-main-4 /Users/jatindayal/.pub-cache/hosted/pub.dev/wifi_info_flutter-2.0.2/android/src/main/res
+io.flutter.plugins.wifi_info_flutter-release-5 /Users/jatindayal/.pub-cache/hosted/pub.dev/wifi_info_flutter-2.0.2/android/src/release/res
+io.flutter.plugins.wifi_info_flutter-pngs-6 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/wifi_info_flutter/generated/res/pngs/release
+io.flutter.plugins.wifi_info_flutter-resValues-7 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/wifi_info_flutter/generated/res/resValues/release
+io.flutter.plugins.wifi_info_flutter-rs-8 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/wifi_info_flutter/generated/res/rs/release
+io.flutter.plugins.wifi_info_flutter-mergeReleaseResources-9 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/wifi_info_flutter/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.wifi_info_flutter-mergeReleaseResources-10 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/wifi_info_flutter/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.wifi_info_flutter-merged_res-11 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/wifi_info_flutter/intermediates/merged_res/release

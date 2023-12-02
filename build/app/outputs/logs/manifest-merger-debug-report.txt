@@ -1,0 +1,386 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:10:4-42:18
+MERGED from [:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-17:19
+MERGED from [:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-17:19
+MERGED from [:url_launcher_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
+MERGED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-33:19
+MERGED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-33:19
+MERGED from [:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-18:19
+MERGED from [:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-18:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/jatindayal/.gradle/caches/transforms-3/00240011846fcef106bbbb0c419b6cc2/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/jatindayal/.gradle/caches/transforms-3/00240011846fcef106bbbb0c419b6cc2/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/c4617a4fc7933a28574b49ff6158c6b4/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/c4617a4fc7933a28574b49ff6158c6b4/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/jatindayal/.gradle/caches/transforms-3/f4522a8ff0ebf687a8eb2255d261cc22/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/jatindayal/.gradle/caches/transforms-3/f4522a8ff0ebf687a8eb2255d261cc22/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/a803b26917b9511c7a96bfb86ec9874f/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/a803b26917b9511c7a96bfb86ec9874f/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jatindayal/.gradle/caches/transforms-3/2464fadd96256f29473f6d67e4c2a497/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jatindayal/.gradle/caches/transforms-3/2464fadd96256f29473f6d67e4c2a497/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:1:1-43:12
+MERGED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:1:1-43:12
+MERGED from [:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [:network_info_plus] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/network_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:google_maps_flutter_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:url_launcher_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:sensors_plus] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/sensors_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:wifi_info_flutter] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/wifi_info_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:perfect_volume_control] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/perfect_volume_control/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:screen_brightness_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/screen_brightness_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:shared_preferences_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:permission_handler_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:connectivity] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/connectivity/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:geocoding_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geocoding_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_mute] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_mute/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:google_api_headers] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/google_api_headers/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:package_info_plus] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/package_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-35:12
+MERGED from [:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/51395fdc3c7e6e01eff936a294dd62dc/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/jatindayal/.gradle/caches/transforms-3/00240011846fcef106bbbb0c419b6cc2/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/1527a60ee48f5bfab76f5e86cf0b7299/transformed/jetified-core-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/c4617a4fc7933a28574b49ff6158c6b4/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/jatindayal/.gradle/caches/transforms-3/f4522a8ff0ebf687a8eb2255d261cc22/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/a803b26917b9511c7a96bfb86ec9874f/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jatindayal/.gradle/caches/transforms-3/c352a60e0597655e01b76665a5408a97/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/f50ba3bcea8092385f3111571e8fca97/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/499931dd1199007cccbb48bbce46d0f4/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/faefdc110dbb65a09192b73c638c90ae/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/7197762232c7fe03927363d6281cf5fd/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/jatindayal/.gradle/caches/transforms-3/ca4dd8621ee872518424261cedb68fd0/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/376a6085834e2e3c11cb7c2a32099603/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jatindayal/.gradle/caches/transforms-3/2464fadd96256f29473f6d67e4c2a497/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/jatindayal/.gradle/caches/transforms-3/f60e914a034154988d05466ed46d6498/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/068d5a46c9ecc93bbe1754b12b017db5/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jatindayal/.gradle/caches/transforms-3/bd7cd44055f14ee77185b200a278f16e/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/65f9545eb449a16575802b7dbf2722c0/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jatindayal/.gradle/caches/transforms-3/e1921cb335c800d90b0e271989cea847/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jatindayal/.gradle/caches/transforms-3/1ea7fe4932266262b9ace9db04f73060/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jatindayal/.gradle/caches/transforms-3/562a41de6aa0c89ce2e9a8eb105ecd00/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:2:5-39
+		INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:1:1-43:12
+		INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:1:1-43:12
+		INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:3:5-76
+	android:name
+		ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:3:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [:network_info_plus] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/network_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:network_info_plus] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/network_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:connectivity] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/connectivity/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:connectivity] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/connectivity/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:5:23-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-79
+MERGED from [:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+MERGED from [:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:8:5-85
+	android:name
+		ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:8:22-82
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-sdk
+INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml
+MERGED from [:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:network_info_plus] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/network_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:network_info_plus] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/network_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_maps_flutter_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_maps_flutter_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:sensors_plus] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/sensors_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:sensors_plus] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/sensors_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:wifi_info_flutter] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/wifi_info_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:wifi_info_flutter] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/wifi_info_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:perfect_volume_control] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/perfect_volume_control/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:perfect_volume_control] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/perfect_volume_control/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:screen_brightness_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/screen_brightness_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:screen_brightness_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/screen_brightness_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:connectivity] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/connectivity/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:connectivity] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/connectivity/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geocoding_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geocoding_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geocoding_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geocoding_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_mute] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_mute/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_mute] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_mute/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_api_headers] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/google_api_headers/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_api_headers] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/google_api_headers/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:package_info_plus] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/package_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:package_info_plus] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/package_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/51395fdc3c7e6e01eff936a294dd62dc/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/51395fdc3c7e6e01eff936a294dd62dc/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/jatindayal/.gradle/caches/transforms-3/00240011846fcef106bbbb0c419b6cc2/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/jatindayal/.gradle/caches/transforms-3/00240011846fcef106bbbb0c419b6cc2/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/1527a60ee48f5bfab76f5e86cf0b7299/transformed/jetified-core-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/1527a60ee48f5bfab76f5e86cf0b7299/transformed/jetified-core-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/c4617a4fc7933a28574b49ff6158c6b4/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/c4617a4fc7933a28574b49ff6158c6b4/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/jatindayal/.gradle/caches/transforms-3/f4522a8ff0ebf687a8eb2255d261cc22/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/jatindayal/.gradle/caches/transforms-3/f4522a8ff0ebf687a8eb2255d261cc22/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/a803b26917b9511c7a96bfb86ec9874f/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/a803b26917b9511c7a96bfb86ec9874f/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jatindayal/.gradle/caches/transforms-3/c352a60e0597655e01b76665a5408a97/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jatindayal/.gradle/caches/transforms-3/c352a60e0597655e01b76665a5408a97/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/f50ba3bcea8092385f3111571e8fca97/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/f50ba3bcea8092385f3111571e8fca97/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/499931dd1199007cccbb48bbce46d0f4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/499931dd1199007cccbb48bbce46d0f4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/faefdc110dbb65a09192b73c638c90ae/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/faefdc110dbb65a09192b73c638c90ae/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/7197762232c7fe03927363d6281cf5fd/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/7197762232c7fe03927363d6281cf5fd/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/jatindayal/.gradle/caches/transforms-3/ca4dd8621ee872518424261cedb68fd0/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/jatindayal/.gradle/caches/transforms-3/ca4dd8621ee872518424261cedb68fd0/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/376a6085834e2e3c11cb7c2a32099603/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/376a6085834e2e3c11cb7c2a32099603/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jatindayal/.gradle/caches/transforms-3/2464fadd96256f29473f6d67e4c2a497/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jatindayal/.gradle/caches/transforms-3/2464fadd96256f29473f6d67e4c2a497/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/jatindayal/.gradle/caches/transforms-3/f60e914a034154988d05466ed46d6498/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/jatindayal/.gradle/caches/transforms-3/f60e914a034154988d05466ed46d6498/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/068d5a46c9ecc93bbe1754b12b017db5/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/068d5a46c9ecc93bbe1754b12b017db5/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jatindayal/.gradle/caches/transforms-3/bd7cd44055f14ee77185b200a278f16e/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jatindayal/.gradle/caches/transforms-3/bd7cd44055f14ee77185b200a278f16e/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/65f9545eb449a16575802b7dbf2722c0/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jatindayal/.gradle/caches/transforms-3/65f9545eb449a16575802b7dbf2722c0/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jatindayal/.gradle/caches/transforms-3/e1921cb335c800d90b0e271989cea847/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jatindayal/.gradle/caches/transforms-3/e1921cb335c800d90b0e271989cea847/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jatindayal/.gradle/caches/transforms-3/1ea7fe4932266262b9ace9db04f73060/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jatindayal/.gradle/caches/transforms-3/1ea7fe4932266262b9ace9db04f73060/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jatindayal/.gradle/caches/transforms-3/562a41de6aa0c89ce2e9a8eb105ecd00/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jatindayal/.gradle/caches/transforms-3/562a41de6aa0c89ce2e9a8eb105ecd00/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jatindayal/Downloads/coding/picosoft/location_app/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-77
+MERGED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-77
+MERGED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-74
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-16:56
+	android:enabled
+		ADDED from [:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-53
+	android:name
+		ADDED from [:geolocator_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-77
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:network_info_plus] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/network_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:wifi_info_flutter] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/wifi_info_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-76
+MERGED from [:wifi_info_flutter] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/wifi_info_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from [:network_info_plus] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/network_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-73
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from [:flutter_mute] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_mute/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-85
+	android:name
+		ADDED from [:flutter_mute] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_mute/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-82
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-65
+service#id.flutter.flutter_background_service.BackgroundService
+ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-18:44
+	android:enabled
+		ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-35
+	android:exported
+		ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-36
+	android:stopWithTask
+		ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-41
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-83
+receiver#id.flutter.flutter_background_service.WatchdogReceiver
+ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-23:39
+	android:enabled
+		ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-35
+	android:exported
+		ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-82
+receiver#id.flutter.flutter_background_service.BootReceiver
+ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:24:9-32:20
+	android:enabled
+		ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-78
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:29:17-79
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:29:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:30:25-79
+service#com.lyokone.location.FlutterLocationService
+ADDED from [:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:13:9-17:56
+	android:enabled
+		ADDED from [:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-35
+	android:exported
+		ADDED from [:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-37
+	android:foregroundServiceType
+		ADDED from [:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-53
+	android:name
+		ADDED from [:location] /Users/jatindayal/Downloads/coding/picosoft/location_app/build/location/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-71
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/75bb2f5d1feea18ba685992a2e161241/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/c4617a4fc7933a28574b49ff6158c6b4/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/c4617a4fc7933a28574b49ff6158c6b4/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/c4617a4fc7933a28574b49ff6158c6b4/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/c4617a4fc7933a28574b49ff6158c6b4/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/a803b26917b9511c7a96bfb86ec9874f/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/a803b26917b9511c7a96bfb86ec9874f/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/jatindayal/.gradle/caches/transforms-3/a803b26917b9511c7a96bfb86ec9874f/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+permission#com.example.location_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+uses-permission#com.example.location_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/jatindayal/.gradle/caches/transforms-3/17d1f1089208f684c39afd744ee00177/transformed/core-1.10.1/AndroidManifest.xml:26:22-94

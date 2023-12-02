@@ -1,0 +1,12 @@
+com.aaassseee.screen_brightness_android-core-1.6.0-0 /Users/jatindayal/.gradle/caches/transforms-3/03c3e6831c1b52820d6969bb986c9982/transformed/core-1.6.0/res
+com.aaassseee.screen_brightness_android-jetified-window-1.0.0-beta04-1 /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/res
+com.aaassseee.screen_brightness_android-jetified-window-java-1.0.0-beta04-2 /Users/jatindayal/.gradle/caches/transforms-3/51395fdc3c7e6e01eff936a294dd62dc/transformed/jetified-window-java-1.0.0-beta04/res
+com.aaassseee.screen_brightness_android-jetified-annotation-experimental-1.1.0-3 /Users/jatindayal/.gradle/caches/transforms-3/b4944ebabe285ce393c6ed341ad8a5e6/transformed/jetified-annotation-experimental-1.1.0/res
+com.aaassseee.screen_brightness_android-main-4 /Users/jatindayal/.pub-cache/hosted/pub.dev/screen_brightness_android-0.1.0+1/android/src/main/res
+com.aaassseee.screen_brightness_android-release-5 /Users/jatindayal/.pub-cache/hosted/pub.dev/screen_brightness_android-0.1.0+1/android/src/release/res
+com.aaassseee.screen_brightness_android-pngs-6 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/screen_brightness_android/generated/res/pngs/release
+com.aaassseee.screen_brightness_android-resValues-7 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/screen_brightness_android/generated/res/resValues/release
+com.aaassseee.screen_brightness_android-rs-8 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/screen_brightness_android/generated/res/rs/release
+com.aaassseee.screen_brightness_android-mergeReleaseResources-9 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/screen_brightness_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.aaassseee.screen_brightness_android-mergeReleaseResources-10 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/screen_brightness_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.aaassseee.screen_brightness_android-merged_res-11 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/screen_brightness_android/intermediates/merged_res/release

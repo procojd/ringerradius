@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "top.huic.perfect_volume_control.perfect_volume_control-merged_res-10:/layout-v21/notification_template_custom_big.xml",
+        "source": "top.huic.perfect_volume_control.perfect_volume_control-core-1.6.0-0:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "top.huic.perfect_volume_control.perfect_volume_control-merged_res-10:/layout-v21/notification_template_icon_group.xml",
+        "source": "top.huic.perfect_volume_control.perfect_volume_control-core-1.6.0-0:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "top.huic.perfect_volume_control.perfect_volume_control-merged_res-10:/layout-v21/notification_action.xml",
+        "source": "top.huic.perfect_volume_control.perfect_volume_control-core-1.6.0-0:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "top.huic.perfect_volume_control.perfect_volume_control-merged_res-10:/layout-v21/notification_action_tombstone.xml",
+        "source": "top.huic.perfect_volume_control.perfect_volume_control-core-1.6.0-0:/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,12 @@
+dev.fluttercommunity.plus.network_info.network_info_plus-core-1.6.0-0 /Users/jatindayal/.gradle/caches/transforms-3/03c3e6831c1b52820d6969bb986c9982/transformed/core-1.6.0/res
+dev.fluttercommunity.plus.network_info.network_info_plus-jetified-window-1.0.0-beta04-1 /Users/jatindayal/.gradle/caches/transforms-3/44c8c212e46a1bdb8e2f1f34ce55f426/transformed/jetified-window-1.0.0-beta04/res
+dev.fluttercommunity.plus.network_info.network_info_plus-jetified-window-java-1.0.0-beta04-2 /Users/jatindayal/.gradle/caches/transforms-3/51395fdc3c7e6e01eff936a294dd62dc/transformed/jetified-window-java-1.0.0-beta04/res
+dev.fluttercommunity.plus.network_info.network_info_plus-jetified-annotation-experimental-1.1.0-3 /Users/jatindayal/.gradle/caches/transforms-3/b4944ebabe285ce393c6ed341ad8a5e6/transformed/jetified-annotation-experimental-1.1.0/res
+dev.fluttercommunity.plus.network_info.network_info_plus-main-4 /Users/jatindayal/.pub-cache/hosted/pub.dev/network_info_plus-4.1.0/android/src/main/res
+dev.fluttercommunity.plus.network_info.network_info_plus-release-5 /Users/jatindayal/.pub-cache/hosted/pub.dev/network_info_plus-4.1.0/android/src/release/res
+dev.fluttercommunity.plus.network_info.network_info_plus-pngs-6 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/network_info_plus/generated/res/pngs/release
+dev.fluttercommunity.plus.network_info.network_info_plus-resValues-7 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/network_info_plus/generated/res/resValues/release
+dev.fluttercommunity.plus.network_info.network_info_plus-rs-8 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/network_info_plus/generated/res/rs/release
+dev.fluttercommunity.plus.network_info.network_info_plus-mergeReleaseResources-9 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/network_info_plus/intermediates/incremental/release/mergeReleaseResources/merged.dir
+dev.fluttercommunity.plus.network_info.network_info_plus-mergeReleaseResources-10 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/network_info_plus/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+dev.fluttercommunity.plus.network_info.network_info_plus-merged_res-11 /Users/jatindayal/Downloads/coding/picosoft/location_app/build/network_info_plus/intermediates/merged_res/release
